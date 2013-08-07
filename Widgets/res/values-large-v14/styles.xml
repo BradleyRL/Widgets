@@ -5,12 +5,12 @@
         AppBaseTheme from BOTH res/values/styles.xml and
         res/values-v11/styles.xml on API 14+ devices.
     -->
-    <style name="AppBaseLargeTheme" parent="AndroidTheme">
+    <style name="AppBaseLargeTheme" parent="Theme.AppCompat.Light">
         <item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
         <item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
     </style>
 
-    <style name="AppBaseDarkLargeTheme" parent="AndroidDarkTheme">
+    <style name="AppBaseDarkLargeTheme" parent="Theme.AppCompat">
         <item name="listPreferredItemPaddingLeft">?android:attr/listPreferredItemPaddingLeft</item>
         <item name="listPreferredItemPaddingRight">?android:attr/listPreferredItemPaddingRight</item>
     </style>

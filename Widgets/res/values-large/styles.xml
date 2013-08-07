@@ -1,11 +1,11 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <style name="AppBaseLargeTheme" parent="android:Theme">
+    <style name="AppBaseLargeTheme" parent="Theme.AppCompat.Light">
         <item name="listPreferredItemPaddingLeft">6dp</item>
         <item name="listPreferredItemPaddingRight">6dp</item>
     </style>
 
-    <style name="AppBaseDarkLargeTheme" parent="android:Theme.Black">
+    <style name="AppBaseDarkLargeTheme" parent="Theme.AppCompat">
         <item name="listPreferredItemPaddingLeft">6dp</item>
         <item name="listPreferredItemPaddingRight">6dp</item>
     </style>
