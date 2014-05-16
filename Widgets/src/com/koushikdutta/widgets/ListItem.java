@@ -19,7 +19,6 @@ package com.koushikdutta.widgets;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 import android.util.TypedValue;
-import android.view.ContextThemeWrapper;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.CompoundButton;
